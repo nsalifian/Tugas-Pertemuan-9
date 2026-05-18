@@ -72,23 +72,6 @@ Project Laravel untuk tugas:
 ---
 
 
-## Daftar Anggota
-![Daftar Anggota](screenshots/anggota-index.png)
-
-## Detail Anggota
-![Detail Anggota](screenshots/anggota-show.png)
-
-## Daftar Kategori
-![Daftar Kategori](screenshots/kategori-index.png)
-
-## Detail Kategori
-![Detail Kategori](screenshots/kategori-show.png)
-
-## Search Kategori
-![Search Kategori](screenshots/kategori-search.png)
-
----
-
 # Route yang Digunakan
 
 - /anggota
